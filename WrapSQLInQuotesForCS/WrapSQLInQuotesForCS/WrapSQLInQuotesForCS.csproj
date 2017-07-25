@@ -150,7 +150,6 @@
     <Content Include="Images\imgUpdateLogOK_Home.PNG">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Resource Include="Resources\green.ico" />
     <Resource Include="Resources\RedArrowRight.png" />
     <Resource Include="Resources\RedBox.png" />
   </ItemGroup>
