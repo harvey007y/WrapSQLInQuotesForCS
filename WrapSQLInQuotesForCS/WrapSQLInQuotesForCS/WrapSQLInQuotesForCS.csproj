@@ -35,6 +35,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Elegantthemes-Beautiful-Flat-Quote.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -118,6 +121,8 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="Resources\Elegantthemes-Beautiful-Flat-Quote.ico" />
+    <Resource Include="green.ico" />
     <Content Include="Images\112_UpArrowShort_Green.ico">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -145,6 +150,7 @@
     <Content Include="Images\imgUpdateLogOK_Home.PNG">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Resource Include="Resources\green.ico" />
     <Resource Include="Resources\RedArrowRight.png" />
     <Resource Include="Resources\RedBox.png" />
   </ItemGroup>
