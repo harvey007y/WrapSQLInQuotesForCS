@@ -8,7 +8,6 @@ quotes so that you can easily paste it into your C-Sharp project.
       1. Get Latest source for WrapSQLInQuotesForCS at https://github.com/harvey007y/WrapSQLInQuotesForCS           
       2. Build and Run WrapSQLInQuotesForCS<br/>
       3. A dialog box will appear that allows tells you to put your sql in notepad, save it, and click okay.<br/>
-            <center><img src="http://www.idealautomate.com/images/DomainName.PNG" border="0" alt="Windows Domain Name for Active Directory" /></center><br/>
             <center><img src="http://www.idealautomate.com/images/WrapSqlInQuotesForCSDialog.PNG" border="0" alt="Select Server that sql server runs on" /></center><br/>
                         <center><img src="http://www.idealautomate.com/images/WrapSqlInQuotesForCSIn.PNG" border="0" alt="Select Server that sql server runs on" /></center><br/>
                         <center><img src="http://www.idealautomate.com/images/WrapSqlInQuotesForCSOut.PNG" border="0" alt="Select Server that sql server runs on" /></center><br/>
