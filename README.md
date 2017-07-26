@@ -5,7 +5,7 @@ quotes so that you can easily paste it into your C-Sharp project.
 
 
   Steps to use:<br/>
-      1. Get Latest source for WrapSQLInQuotesForCS at https://github.com/harvey007y/WrapSQLInQuotesForCS <br/>          
-      3. Build and Run WrapSQLInQuotesForCS<br/>
-      4. A dialog box will appear that allows tells you to put your sql in notepad, save it, and click okay.<br/>
+      1. Get Latest source for WrapSQLInQuotesForCS at https://github.com/harvey007y/WrapSQLInQuotesForCS           
+      2. Build and Run WrapSQLInQuotesForCS<br/>
+      3. A dialog box will appear that allows tells you to put your sql in notepad, save it, and click okay.<br/>
     
