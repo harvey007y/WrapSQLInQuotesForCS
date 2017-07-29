@@ -122,7 +122,6 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\Elegantthemes-Beautiful-Flat-Quote.ico" />
-    <Resource Include="green.ico" />
     <Content Include="Images\112_UpArrowShort_Green.ico">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
